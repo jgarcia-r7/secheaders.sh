@@ -1,5 +1,5 @@
 # secheaders.sh
-Secheaders.sh - Check for Missing-Security Related HTTP Headers
+Secheaders.sh - Check for Missing Security-Related HTTP Headers
 ### Description
 Secheaders.sh is a simple bash script that uses Curl to retrieve the response headers from a target URL. The script then checks for these five headers:
 - Strict-Transport-Security
